@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "daisyui": "^4.12.10"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2"
+  }
+}
